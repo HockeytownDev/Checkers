@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1532033746 source:c:\users\matt\desktop\cs250 project\project\main.cpp
+	<iostream>
+	"Player.h"
+	"Board.h"
+	"BoardPosition.h"
+
+1531954162 c:\users\matt\desktop\cs250 project\project\player.h
+	<iostream>
+	<string>
+
+1531960243 c:\users\matt\desktop\cs250 project\project\board.h
+	<iostream>
+
+1531956125 c:\users\matt\desktop\cs250 project\project\boardposition.h
+	<iostream>
+
